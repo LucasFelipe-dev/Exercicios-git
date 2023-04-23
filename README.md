@@ -1,3 +1,5 @@
-Olá Pessoal tudo bem?
+Olá Pessoal tudo bem, sou estudante de Analise e desenvolvimento de sistemas!
 
-Muito bom esse github!
+Entusiasta da tecnologia e em constante aprendizado.
+
+
