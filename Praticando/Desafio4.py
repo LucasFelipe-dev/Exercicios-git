@@ -1,0 +1,5 @@
+info=input('Insira algo: ')
+print((info).isalnum())
+print((info).isalpha())
+print((info).isalnum())
+print(type(info))
